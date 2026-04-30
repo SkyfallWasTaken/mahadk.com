@@ -216,7 +216,7 @@ main()
 
 I ran the code, reloaded the page, and sure enough, I had admin access:
 
-![A screenshot of Spaces' admin panel](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1dfad3be3d7b7bb1f31d6cd3ed986ed019439b0a_image.png)
+![A screenshot of Spaces' admin panel](https://user-cdn.hackclub-assets.com/019c2588-6c82-7799-96db-682f923205f3/1dfad3be3d7b7bb1f31d6cd3ed986ed019439b0a_image.png)
 
 Very nice.
 
